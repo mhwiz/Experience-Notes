@@ -6,6 +6,8 @@ Welcome to all who happen to be passing by!
 
 ## ❔ How I got started
 
-I was exposed to a very small portion of the Cybersecurity world during my time in highs school. A classmate of mine had discovered a very well known distro among the community. That distro was Kali Linux. I eventually learned how to make a bootable USB with Kali on it so that I could play around within that environment while keeping my main Windows environment unaffected. Around this time I was also exposed to many things online from various different people I would randomly meet. I would be exposed to terms/phrases such as Mirai Botnets, DDOS, Doxing, etc. 
-
+---
+I was exposed to a very small portion of the Cybersecurity world during my time in high school. I was exposed to the very well known distro: **Kali Linux.**
+From here, I would learn about bootable USBs, Mirai Botnets, DDOS, Doxing, and more.
+---
 
